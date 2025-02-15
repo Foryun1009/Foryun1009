@@ -1,7 +1,7 @@
 - 个人简介
   - 懒癌晚期的独立游戏开发者
 - 博客
-  - [关于页面 - Foryun](https://www.foryun.com.cn/s/about)
+  - [关于页面 - Foryun](http://www.foryun.com.cn/s/about)
 - B站
   - [Foryun-浮云的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/2920221)
 - Gitee
